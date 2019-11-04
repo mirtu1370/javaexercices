@@ -2,10 +2,7 @@ public class Circle{
     private double radius =1.0f;
     private String color = "red";
     public Circle(){
-
     }
-
-private double radius;
 
     public Circle (double radius) {
         this.radius = radius;
